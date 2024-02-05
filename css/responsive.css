@@ -1,0 +1,105 @@
+/* Laptop and below  */
+@media screen and (max-width: 992px) {
+
+  #content-menu,
+  .menu-wrapper {
+    display: none;
+  }
+
+  .body-container {
+    flex-direction: column;
+  }
+
+  .body-container #content {
+    margin-top: 40px;
+    padding: 0 16px;
+    flex-basis: 100%;
+    width: 100%;
+  }
+
+  .body-container .menu-wrapper {
+    padding: 16px;
+  }
+
+  .body-container #menu {
+    position: static;
+    transform: none;
+    width: auto;
+  }
+
+  #tess-van-stekelenburg {
+    white-space: normal;
+    text-align: left;
+  }
+
+  .front-container #menu .quote {
+    margin: 0;
+  }
+
+  .front-container .banner {
+    padding: 16px;
+    margin-top: 40px;
+    margin-right: 0;
+    ;
+  }
+}
+
+/* Tablet and below  */
+@media screen and (max-width: 768px) {
+
+  #content-menu,
+  .menu-wrapper {
+    display: none;
+  }
+
+  .front-container {
+    flex-direction: column;
+  }
+
+  .front-container #menu {
+    width: 100%;
+    text-align: center;
+    padding: 16px;
+  }
+}
+
+/* Mobile and below  */
+@media screen and (max-width: 575px) {
+
+  .container {
+    padding: 0 25px;
+  }
+
+  .front-container {
+    display: block !important;
+  }
+
+  #content-menu,
+  .menu-wrapper {
+    display: none;
+  }
+
+  .body-container .menu-wrapper {
+    padding: 16px 0;
+  }
+
+  .body-container #content {
+    padding: 0;
+  }
+
+  #digital_traces {
+    flex-direction: column;
+  }
+
+  .tess-van-stekelenburg {
+    font-size: 24px;
+  }
+
+  .front-container #menu .quote {
+    font-size: 16px;
+  }
+
+  .author {
+    font-size: 14px;
+  }
+}

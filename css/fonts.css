@@ -1,0 +1,143 @@
+/* 
+* START "FK Roman Standard"
+*/
+@font-face {
+  font-family: "FK Roman Standard";
+  src: url("/fonts/FKRomanStandardTrial-Black-BF65712ec892d65.otf") format("opentype");
+  font-weight: 900;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "FK Roman Standard";
+  src: url("/fonts/FKRomanStandardTrial-BlackOblique-BF65712ec8f4011.otf") format("opentype");
+  font-weight: 900;
+  font-display: swap;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "FK Roman Standard";
+  src: url("/fonts/FKRomanStandardTrial-Bold-BF65712ec913098.otf") format("opentype");
+  font-weight: 700;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "FK Roman Standard";
+  src: url("/fonts/FKRomanStandardTrial-BoldOblique-BF65712ec91a7e5.otf") format("opentype");
+  font-weight: 700;
+  font-display: swap;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "FK Roman Standard";
+  src: url("/fonts/FKRomanStandardTrial-Light-BF65712ec927789.otf") format("opentype");
+  font-weight: 300;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "FK Roman Standard";
+  src: url("/fonts/FKRomanStandardTrial-LightOblique-BF65712ec9387c4.otf") format("opentype");
+  font-weight: 300;
+  font-display: swap;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "FK Roman Standard";
+  src: url("/fonts/FKRomanStandardTrial-Medium-BF65712ec949de0.otf") format("opentype");
+  font-weight: 500;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "FK Roman Standard";
+  src: url("/fonts/FKRomanStandardTrial-MediumOblique-BF65712ec956b58.otf") format("opentype");
+  font-weight: 500;
+  font-display: swap;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "FK Roman Standard";
+  src: url("/fonts/FKRomanStandardTrial-Regular-BF65712ec975639.otf") format("opentype");
+  font-weight: 400;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "FK Roman Standard";
+  src: url("/fonts/FKRomanStandardTrial-Oblique-BF65712ec96ce05.otf") format("opentype");
+  font-weight: 400;
+  font-display: swap;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "FK Roman Standard";
+  src: url("/fonts/FKRomanStandardTrial-Thin-BF65712ec98b6a9.otf") format("opentype");
+  font-weight: 100;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "FK Roman Standard";
+  src: url("/fonts/FKRomanStandardTrial-ThinOblique-BF65712ec98f258.otf") format("opentype");
+  font-weight: 100;
+  font-display: swap;
+  font-style: italic;
+}
+
+/* 
+* END "FK Roman Standard"
+*/
+
+
+@font-face {
+  font-family: 'GT-Pressura-Standard-Text';
+  src: url('/fonts/GT-Pressura-Standard-Text.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'ExtraLight';
+  src: url('/fonts/SourceHanSerif-ExtraLight.ttc') format('truetype');
+}
+
+@font-face {
+  font-family: 'EnvoyBold';
+  src: url('/fonts/font.woff') format('truetype');
+}
+
+@font-face {
+  font-family: 'Envoy_Small_Caps';
+  src: url('/fonts/Envoy_Small_Caps_font.woff') format('truetype');
+}
+
+@font-face {
+  font-family: 'Source_HanSerif_SemiBold';
+  src: url('/fonts/SourceHanserif-SemiBold.ttc') format('truetype');
+}
+
+@font-face {
+  font-family: 'Source_HanSerif_Light';
+  src: url('/fonts/SourceHanserif-Light.ttc') format('truetype');
+}
+
+@font-face {
+  font-family: 'NotoSansJP-Light';
+  src: url('/fonts/NotoSansJP-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'NotoSansJP-Regular';
+  src: url('/fonts/NotoSansJP-Regular.ttf') format('truetype');
+}
